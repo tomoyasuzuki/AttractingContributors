@@ -9,4 +9,4 @@ Welcome I want to know your favorite game.
 2.  FGO
 ## Please write down here
 1. Apex
-2. Animal Crossing
+2. Mario Kart
