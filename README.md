@@ -10,3 +10,4 @@ Welcome I want to know your favorite game.
 ## Please write down here
 1. Apex
 2. Mario Kart
+3. Mahjang
