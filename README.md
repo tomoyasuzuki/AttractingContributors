@@ -20,4 +20,4 @@ To complete the assignment, please do the following:
 - Impreza wrx sti GC8 (SUBARU)
 - C-HR (TOYOTA)
 - Sakura (Nissan)
-
+- Camaro (Chevrolet)
