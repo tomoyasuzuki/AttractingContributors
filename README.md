@@ -16,3 +16,4 @@ So Cool.
 it's Japanese!!!
 
 # Your favorite distribution.
+- Ubuntu
