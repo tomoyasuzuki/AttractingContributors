@@ -20,3 +20,6 @@ Goal - I want contributors to help me list some favorite PC game.
 
 # List of PC Game
 - minecraft
+- Apex Legends
+- Overwatch
+- FALL GUYS
