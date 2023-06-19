@@ -15,7 +15,7 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Favorite Programming Language
+# Popular Programming Language
 Goal: I want contributors to help me list popular programming languages and why we like them. 
 
 # Rule 
@@ -23,7 +23,7 @@ Goal: I want contributors to help me list popular programming languages and why 
 - 2. Please add comment why you like the language. 
   - format is <your-name>:<comment>
 
-# My Favorite Programming Language
+# List of Popular Programming Language
 - C++ : 1
   - Tomoya Suzuki: 
 
