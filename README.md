@@ -15,9 +15,15 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Favorite Programming Language
+Goal: I want contributors to help me list popular programming languages and why we like them. 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# Rule 
+- 1. Please increment the count of your favorite programming languages(if it is not listed, please add it and set 1).
+- 2. Please add comment why you like the language. 
+  - format is <your-name>:<comment>
 
-# List of Hobby
+# My Favorite Programming Language
+- C++ : 1
+  - Tomoya Suzuki: 
+
