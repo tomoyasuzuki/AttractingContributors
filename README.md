@@ -23,3 +23,4 @@ Goal - I want contributors to help me list some favorite PC game.
 - Apex Legends
 - Overwatch
 - FALL GUYS
+- Overwatch2
