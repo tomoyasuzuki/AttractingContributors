@@ -21,3 +21,5 @@ To complete the assignment, please do the following:
 - C-HR (TOYOTA)
 - Sakura (Nissan)
 - Ledgend (Honda)
+- Camaro (Chevrolet)
+
