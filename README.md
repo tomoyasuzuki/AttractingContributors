@@ -18,4 +18,6 @@ To complete the assignment, please do the following:
 # List of Cars
 
 - Impreza wrx sti GC8 (SUBARU)
+- C-HR (TOYOTA)
 - Sakura (Nissan)
+
