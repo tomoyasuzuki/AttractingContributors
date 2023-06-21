@@ -17,3 +17,4 @@ it's Japanese!!!
 
 # Your favorite distribution.
 - Ubuntu
+- Fedora
