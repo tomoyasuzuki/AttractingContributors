@@ -27,3 +27,5 @@ Goal: I want contributors to help me list popular programming languages and why 
 - C++ : 1
   - Tomoya Suzuki: it can help us to write very fast programs. 
 
+- bash : 1
+  - Hideki Hayashi: it is helpful to use Linux OS
