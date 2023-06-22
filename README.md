@@ -23,4 +23,6 @@ To complete the assignment, please do the following:
 - Ledgend (Honda)
 - Camaro (Chevrolet)
 - GR YARIS (TOYOTA)
+- Midget (Daihatsu)
 - Ford Mustang (Ford)
+
