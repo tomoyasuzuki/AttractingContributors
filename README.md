@@ -24,3 +24,5 @@ To complete the assignment, please do the following:
 - Camaro (Chevrolet)
 - GR YARIS (TOYOTA)
 - Midget (Daihatsu)
+- Ford Mustang (Ford)
+
