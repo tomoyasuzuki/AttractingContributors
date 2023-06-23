@@ -25,5 +25,7 @@ Goal: I want contributors to help me list popular programming languages and why 
 
 # List of Popular Programming Language
 - C++ : 1
-  - Tomoya Suzuki: it can help us to write very fast programs. 
+  - Tomoya Suzuki: it can help us to write very fast programs.
+- C#: 1
+  - Brian Confessor: It has the robustness of C++ but a slighly cleaner syntax  
 
