@@ -7,7 +7,7 @@ Please tell me the title of your favorite Manga.
 - ONE PIECE
 
 ## Please write here in English or Japanese
-- 
+- Attack on Titan
 - 
 - 
 - 
