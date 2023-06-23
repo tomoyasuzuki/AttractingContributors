@@ -26,5 +26,11 @@ Goal: I want contributors to help me list popular programming languages and why 
 # List of Popular Programming Language
 - C++ : 1
   - Tomoya Suzuki: it can help us to write very fast programs. 
-- python : 1
+- bash : 1
+  - Hideki Hayashi: it is helpful to use Linux OS
+  - Tomoya Suzuki: it can help us to write very fast programs.
+- C#: 1
+  - Brian Confessor: It has the robustness of C++ but a slighly cleaner syntax  
+- Python : 2
+  - rfLENtlr: it is easy to use and has an extensive library.
   - Shogo Yoshida: Easy to write
