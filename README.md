@@ -18,3 +18,4 @@ ___
 - JavaScript
 - Verilog
 - Rust
+- C++
