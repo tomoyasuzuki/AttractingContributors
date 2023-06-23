@@ -24,6 +24,6 @@ Goal - I want to know the companies you want to work
 4.　SONY   
 5.　Rakuten   
 6.　Docomo     
-7. Microsoft
-8. SOD
-9. apple
+7. Microsoft　
+8. SOD　
+9. apple　
