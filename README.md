@@ -17,11 +17,11 @@ To complete the assignment, please do the following:
 
 # Company-Collection
 Goal - I want to know the companies you want to work 
-# List of Hobby
-Nintendo
-PFN
-CARTA HOLDINGS
-SONY
-Rakuten
-Docomo
-SONY
+# List of Company
+1.Nintendo \\
+2.PFN \\
+3.CARTA HOLDINGS \\
+4.SONY \\
+5.Rakuten \\
+6.Docomo \\
+7.SONY \\
