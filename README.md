@@ -23,4 +23,5 @@ Goal - I want to know the companies you want to work
 3.　CARTA HOLDINGS   
 4.　SONY   
 5.　Rakuten   
-6.　Docomo     
+6.　Docomo   
+7. apple
