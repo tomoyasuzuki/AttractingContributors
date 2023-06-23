@@ -18,3 +18,4 @@ vivo X90 Pro+
 9. Google Pixel 6a
 10. Sony XPERIA
 11. iPhone 3GS
+12. Xiaomi Note 12
