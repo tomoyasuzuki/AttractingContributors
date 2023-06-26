@@ -22,4 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Drinks
 1．Coke
-2. tea with milk
+2. Coffee milk
+3. orange juice
+4. tea with milk
