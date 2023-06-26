@@ -19,3 +19,4 @@ it's Japanese!!!
 - Ubuntu
 - Fedora
 - Ubuntu
+- CentOS
