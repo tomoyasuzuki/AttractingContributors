@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Sprite
 7. Dr Pepper
 8. Coffee
+9. Americano
