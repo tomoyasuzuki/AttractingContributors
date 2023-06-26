@@ -12,7 +12,7 @@ If not, please let me know what you recommend in the cafeteria.
 # Example
 
 1. 福茂千
-2. カレーうどん
 3. 親子丼
 
 # List of Restaurants
+1. カレーうどん
