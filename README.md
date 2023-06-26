@@ -8,6 +8,7 @@ Please tell me the title of your favorite Manga.
 
 ## Please write here in English or Japanese
 - Fullmetal Alchemist
+- JOJO'S Bizarre Adventure
 - 
 - 
 - 
