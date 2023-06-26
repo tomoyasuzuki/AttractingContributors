@@ -37,3 +37,4 @@ Goal: I want contributors to help me list popular programming languages and why 
   - rfLENtlr: it is easy to use and has an extensive library.
   - Shogo Yoshida: Easy to write
   - Takahiro Hiura: It is easy to use.
+  - Marin Mikami: easy to learn.
