@@ -19,3 +19,4 @@ it's Japanese!!!
 - Ubuntu
 - Fedora
 - Ubuntu
+- Ubuntu (especially 20.04)
