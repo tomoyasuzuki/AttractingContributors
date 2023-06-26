@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. Tea
 11. milk
 12. American lemonade
+13. Beer
