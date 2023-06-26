@@ -22,4 +22,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Drinks
 1．Coke
-2. Americano
+2. Coffee milk
+3. orange juice
+4. tea with milk
+5. Cranberry Juice
+6. Sprite
+7. Dr Pepper
+8. Coffee
+9. Americano
