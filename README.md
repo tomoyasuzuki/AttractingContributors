@@ -17,3 +17,4 @@ If not, please let me know what you recommend in the cafeteria.
 # List of Restaurants
 1. Kyoto Nishiki Warai (Okonomiyaki restaurant in Aeon Mool Tomigaoka)
 2. Hananoki (Tonkatsu restaurant)
+3. かつ丼
