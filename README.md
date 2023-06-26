@@ -8,11 +8,11 @@ Please tell me the title of your favorite Manga.
 
 ## Please write here in English or Japanese
 - BREACH
-- 
-- 
-- 
-- 
-- 
+- Akagi
+- Attack on Titan
+- HUNTER×HUNTER
+- Fullmetal Alchemist
+- JOJO'S Bizarre Adventure
 - 
 - 
 - 
