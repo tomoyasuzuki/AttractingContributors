@@ -26,4 +26,6 @@ To complete the assignment, please do the following:
 - Midget (Daihatsu)
 - Ford Mustang (Ford)
 - Fit(Honda)
+- Cayenne (porsche)
+- Lamborghini Aventator
 
