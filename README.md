@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Coffee milk
 3. orange juice
 4. tea with milk
+5. Cranberry Juice
