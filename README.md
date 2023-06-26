@@ -12,7 +12,7 @@ If not, please let me know what you recommend in the cafeteria.
 # Example
 
 1. 福茂千
-2. 親子丼
+3. 親子丼
 
 # List of Restaurants
 1. カツ丼(3票)
@@ -20,3 +20,4 @@ If not, please let me know what you recommend in the cafeteria.
 3. Hananoki (Tonkatsu restaurant)
 4. やよい軒
 5. 元喜神
+6. カレーうどん
