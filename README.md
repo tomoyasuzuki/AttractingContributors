@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Dr Pepper
 8. Coffee
 9. Americano
+10. Tea
