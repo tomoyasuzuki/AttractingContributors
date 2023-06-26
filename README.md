@@ -15,4 +15,7 @@ If not, please let me know what you recommend in the cafeteria.
 2. 親子丼
 
 # List of Restaurants
-1. やよい軒
+1. カツ丼(3票)
+2. Kyoto Nishiki Warai (Okonomiyaki restaurant in Aeon Mool Tomigaoka)
+3. Hananoki (Tonkatsu restaurant)
+4. やよい軒
