@@ -21,4 +21,5 @@ If not, please let me know what you recommend in the cafeteria.
 4. やよい軒
 5. 元喜神
 6. カレーうどん
-7. ルーチェサンタルチア
+7. かつアンドかつ(精華町)
+8. ルーチェサンタルチア
