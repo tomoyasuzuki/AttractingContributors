@@ -42,3 +42,4 @@ Goal: I want contributors to help me list popular programming languages and why 
   - Pongchai Jaisri: It can be use with many purpose and easy to understand the systax.
   - Marin Mikami: easy to learn.
   - Habiba: can be used to build a wide variety of applications due to the extensive libraries available.
+  - Kazuki: Deep learning.
