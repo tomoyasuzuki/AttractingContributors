@@ -23,3 +23,4 @@ If not, please let me know what you recommend in the cafeteria.
 6. カレーうどん
 7. かつアンドかつ(精華町)
 8. ルーチェサンタルチア
+9. スシロー
