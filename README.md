@@ -28,7 +28,8 @@ Goal: I want contributors to help me list popular programming languages and why 
   - Tomoya Suzuki: it can help us to write very fast programs.
   - Toi Ooka: C++ is one the best languages to learn or develop low layer technology, like Operating System, Network, and so on.
 - C : 1
-  - YS11-1600: None 
+  - YS11-1600: None
+  - manul222: It is easy to plant buffer overflow, fsb, rop, etc...
 - bash : 1
   - Hideki Hayashi: it is helpful to use Linux OS
   - Tomoya Suzuki: it can help us to write very fast programs.
