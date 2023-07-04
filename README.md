@@ -19,3 +19,9 @@ it's Japanese!!!
 - Ubuntu
 - Fedora
 - Ubuntu(from: tomoyasuzuki)
+- Ubuntu-bionic-beaber
+- Ubuntu
+- Kali Linux
+- Ubuntu (especially 20.04)
+- Ubuntu
+- CentOS
