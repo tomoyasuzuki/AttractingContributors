@@ -20,6 +20,7 @@ it's Japanese!!!
 - Fedora
 - Ubuntu-bionic-beaber
 - Ubuntu
+- Kali Linux
 - Ubuntu (especially 20.04)
 - Ubuntu
 - CentOS
