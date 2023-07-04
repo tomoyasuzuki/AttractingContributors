@@ -18,5 +18,8 @@ it's Japanese!!!
 # Your favorite distribution.
 - Ubuntu
 - Fedora
+- Ubuntu-bionic-beaber
 - Ubuntu
 - Ubuntu (especially 20.04)
+- Ubuntu
+- CentOS
