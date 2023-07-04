@@ -20,5 +20,6 @@ it's Japanese!!!
 - Fedora
 - Ubuntu-bionic-beaber
 - Ubuntu
+- Ubuntu (especially 20.04)
 - Ubuntu
 - CentOS
